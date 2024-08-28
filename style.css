@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+.body{
+    margin: 10px;
+    padding: 100px;
+    border: 5px solid rgb(217, 21, 21);
+    display: inline-block;
+    flex-wrap: wrap;
+}
+.class{
+    margin: 10px;
+    padding: 100px;
+    display: inline-block;
+    border: 5px solid rgb(217, 21, 21);
+    flex-wrap: wrap;
+}
+.qwerty{
+    color: gray;
+    margin-top: 1px;
+}
+.html{
+    margin: 10px;
+    padding: 100px;
+    border: 5px solid rgb(217, 21, 21) ;
+    display: inline-block;
+    flex-wrap: wrap;
+}
+.margin{
+    margin: 10px;
+    padding: 100px;
+    display: inline-block;
+    border: 5px solid rgb(217, 21, 21);
+    flex-wrap: wrap;
+}
+.PBG{
+    margin: 10px;
+    padding: 100px;
+    display: inline-block;
+    border: 5px solid rgb(217, 21, 21);
+    flex-wrap: wrap; 
+}
+.BTLGRPS{
+    margin: 10px;
+    padding: 100px;
+    display: inline-block;
+    border: 5px solid rgb(217, 21, 21);
+    flex-wrap: wrap;
+}
